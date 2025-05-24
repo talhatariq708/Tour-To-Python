@@ -17,3 +17,4 @@ print(h)
 i = "ABC123"
 j = i.isalnum()
 print(j)  # if there is both digit and alphabet
+
