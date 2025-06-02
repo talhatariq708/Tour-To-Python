@@ -9,3 +9,4 @@ print(d)  # will show ASCII number
 e = "T"
 f = ord(e)
 print(f)
+
