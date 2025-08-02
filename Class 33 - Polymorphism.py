@@ -9,3 +9,5 @@ class Marks(IPP):
         print("This will be printed!")
 obj = Marks()
 obj.Marks()
+
+
